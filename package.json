@@ -1,0 +1,17 @@
+{
+  "name": "letteringjs",
+  "version": "0.7.0",
+  "main": "jquery.lettering.js",
+  "ignore": [
+    "examples",
+    "**/.*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davatron5000/Lettering.js"
+  },
+  "homepage": "http://letteringjs.com/",
+  "dependencies": {
+    "jquery": ">= 1.6.2"
+  }
+}
